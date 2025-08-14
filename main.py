@@ -5,7 +5,7 @@ from pick import pick
 def main() -> None:
     os.system("clear")
     submarine = None
-    print("Bienvenido a 'Submarine creator', el creador de submarinos más piola hecho en Python")
+    print("Bienvenido a 'Submarine creator', el creador de submarinos más piola hecho en Python. Ahora disponible en GitHub !!!. Vé a 'https://github.com/ElexemSDdR/submarine_challenge'.")
     print("Ingrese la opción que desee:")
     while True:
         print("1. Armar tu submarino\n2. Mostrar submarino\n3. Subir hasta la superficie\n4. Subir 15 metros\n5. Bajar 15 metros\n6. Ir hasta las profundidades\n7. Salir")
